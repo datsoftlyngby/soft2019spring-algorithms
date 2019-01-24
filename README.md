@@ -9,8 +9,8 @@
 * Online material and code base is available at the ["Booksite"](https://algs4.cs.princeton.edu/home/), with all resources available. 
 * Occasionally excerpts from the book _"Algorithms Fourth Edition"_ (Addison-Wesley 2011), by Robert Sedgewick & Kevin Wayne. 
 
-### Course Work Material
-All other course work material will be accessible through GitHub on an incremental need-to-know basis, here: [https://github.com/datsoftlyngby/soft2019spring-algorithms/tree/master/Weeklies](https://github.com/datsoftlyngby/soft2019spring-algorithms/tree/master/Weeklies)
+### Weeklies
+**All other course work material:** Will be accessible through GitHub on an incremental need-to-know basis, here: [https://github.com/datsoftlyngby/soft2019spring-algorithms/tree/master/Weeklies](https://github.com/datsoftlyngby/soft2019spring-algorithms/tree/master/Weeklies)
 
 **Course Lecture Slides:** Slides will be posted incrementally on GitHub.
 
