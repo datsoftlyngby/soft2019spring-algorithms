@@ -1,7 +1,7 @@
 # Algorithms & Data Strutures - Spring 2019
 
 ### Course Curriculum & Exam Information
-* Course information is availble though the course's Moodle flow, and from the links below.
+* Course information is availble though the course's [Moodle flow](https://cphbusiness.mrooms.net/course/editsection.php?id=27735&sr=0), and from the links below.
 
 ### Reading Material
 #### NB: the Polytechnic Bookstore is reporting lack of availability of hardcopies of the book. However, we can get most of the content by using the online resources, which you can find at the ["Booksite":](https://algs4.cs.princeton.edu/home/)
