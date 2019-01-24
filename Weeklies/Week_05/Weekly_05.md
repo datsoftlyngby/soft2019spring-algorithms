@@ -13,7 +13,7 @@
 
 -----------------
 ### Resources
-**Reading:** Chapter 1.4, 2.1 of 'Algorithms 4th edition', see ["Booksite"]() for abbreviated online version of the reading material. It is highly recommended that you read through the material, and familiarize yourselves with the basic concepts plots, tables etc.
+**Reading:** Chapter 1.4, 2.1 of 'Algorithms 4th edition', see ["Booksite"](https://algs4.cs.princeton.edu/home/) for abbreviated online version of the reading material. It is highly recommended that you read through the material, and familiarize yourselves with the basic concepts plots, tables etc.
 
 **Code:** you should do this yourselves, but some assistance is avaible through the booksite. It often is a good idea to team up outside class too. You can get much further, faster, if you're helping eahcother to ideas.
 
@@ -21,5 +21,5 @@
 
 -----------------
 ### NB: Hand-in group project number 1
-**Assignment 01 - Sorting Shakespeare's Collected Works:** is made available from first day of this week. It has a deadline of 15/2, 08:30. You can find it in [this week's weekly folder](https://github.com/datsoftlyngby/soft2019spring-algorithms/tree/master/Weeklies/Week_05/Assignment_01).
+**Assignment 01 - Sorting Shakespeare's Collected Works:** is made available from first day of this week. It has a deadline of 15/2, 08:30. You can find it in [this weekly's assignment folder](https://github.com/datsoftlyngby/soft2019spring-algorithms/tree/master/Weeklies/Week_05/Assignment_01).
 
