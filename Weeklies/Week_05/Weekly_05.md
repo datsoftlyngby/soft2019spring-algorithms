@@ -6,8 +6,12 @@
 
 ##### Main Subject
 
-1. Introduction to the course, expectations, infrastructure and the overall plan (My makeshift Excel Sheet :-) ).
-2. Simple algorithms, analysis.
+1. Introduction to the course
+ * expectations
+ * infrastructure 
+ * the overall plan for the semester
+2. Simple algorithms, analysis
+ * exercises
 
 ##### Subject & Goal
  * Insertion sort, selection sort.
