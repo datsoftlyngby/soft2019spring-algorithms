@@ -12,6 +12,6 @@
 ### Weeklies
 **All other course work material:** Will be accessible through GitHub on an incremental need-to-know basis, here: [https://github.com/datsoftlyngby/soft2019spring-algorithms/tree/master/Weeklies](https://github.com/datsoftlyngby/soft2019spring-algorithms/tree/master/Weeklies)
 
-**Course Lecture Slides:** Slides will be posted incrementally on GitHub.
+**Course Lecture Slides:** Slides will be posted incrementally on GitHub under the [Weeklies](https://github.com/datsoftlyngby/soft2019spring-algorithms/tree/master/Weeklies).
 
-**Mandatory hand-in assignments and classroom exercises:** Will be posted incrementally on GitHub.
+**Mandatory hand-in assignments and classroom exercises:** Will be posted incrementally on GitHub under the [Weeklies](https://github.com/datsoftlyngby/soft2019spring-algorithms/tree/master/Weeklies).
