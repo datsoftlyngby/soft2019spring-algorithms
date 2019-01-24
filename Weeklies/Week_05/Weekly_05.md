@@ -2,7 +2,7 @@
 
 #### Week 05
 * Course information and material is availble though the Moodle flow.
-* Announcements -- fx about weeklies -- are made through the Moodle flow. 
+* Announcements -- fx about weeklies like this one you're reading -- are made through the Moodle flow. 
 
 ##### Main Subject
 
