@@ -6,7 +6,7 @@
 
 ##### Main Subject
 
-1. Introduction to the course, expectations, infrastructure and the overall plan (My makeshift adopted Excel Sheet :-) ).
+1. Introduction to the course, expectations, infrastructure and the overall plan (My makeshift Excel Sheet :-) ).
 2. Simple algorithms, analysis.
 
 ##### Subject & Goal
