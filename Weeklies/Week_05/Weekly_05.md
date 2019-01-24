@@ -21,5 +21,5 @@
 
 -----------------
 ### NB: Hand-in group project number 1
-**Assignment 01 - Sorting Shakespeare's Collected Works:** is made available from first day of this week. It has a deadline of 15/2, 08:30. You can find it in [this weeklie's assignment folder](https://github.com/datsoftlyngby/soft2019spring-algorithms/tree/master/Weeklies/Week_05/Assignment_01).
+**Assignment 01 - Sorting Shakespeare's Collected Works:** is made available from first day of this week. It has a deadline of 15/2, 08:30. You can find it in [this weekly's assignment folder](https://github.com/datsoftlyngby/soft2019spring-algorithms/tree/master/Weeklies/Week_05/Assignment_01).
 
