@@ -14,6 +14,4 @@ All other course work material will be accessible through GitHub on an increment
 
 **Course Lecture Slides:** Slides will be posted incrementally on GitHub.
 
-**Exercises and mandatory hand-in assignments:**
- * Information about classroom exercises will be posted incrementally on GitHub.
- * Mandatory hand-in project assignment will be posted incrementally on GitHub.
+**Mandatory hand-in assignments and classroom exercises:** Will be posted incrementally on GitHub.
