@@ -21,8 +21,10 @@
 #### Classroom exercises
 TBD.(to-be-determined) -- but will be taken in context of the chapters 1.4 and 2.1 of reading material.
 
-## NB: Hand-in group project number 1
+----------
+#### NB: Hand-in group project number 1
 **Assignment 01 - Sorting Shakespeare's Collected Works:** is made available from first day of this week. It has a deadline of 15/2, 08:30. You can find it in [this week's weekly folder](https://github.com/datsoftlyngby/soft2019spring-algorithms/tree/master/Weeklies/Week_05/Assignment_01).
+-----------
 
 #### Estimated need for activity out side classroom
 You should probably spend some 4-5 hours outside class this time only. The concepts of analysis of algorithms is extremely central in this course, so be careful to read (and read again) Chapters 1.4 and 2.1 .
