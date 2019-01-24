@@ -12,9 +12,8 @@
 ### Course Work Material
 All other course work material will be accessible through GitHub on an incremental need-to-know basis, here: [https://github.com/datsoftlyngby/soft2019spring-algorithms/tree/master/Weeklies](https://github.com/datsoftlyngby/soft2019spring-algorithms/tree/master/Weeklies)
 
-##### Course Lecture Slides
-Slides will be posted incrementally on GitHub.
+**Course Lecture Slides:** Slides will be posted incrementally on GitHub.
 
-##### Exercises and mandatory hand-in assignments
-* Information about classroom exercises will be posted incrementally on GitHub.
-* Mandatory hand-in project assignment will be posted incrementally on GitHub.
+**Exercises and mandatory hand-in assignments:**
+ * Information about classroom exercises will be posted incrementally on GitHub.
+ * Mandatory hand-in project assignment will be posted incrementally on GitHub.
