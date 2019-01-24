@@ -6,26 +6,20 @@
 
 ##### Main Subject
 
-1. Introduction to the course
- * expectations
- * infrastructure 
- * the overall plan for the semester
-2. Simple algorithms, analysis
- * exercises
+1. Introduction to the course, expectations, infrastructure, the overall plan for the semester
+2. Simple algorithms, analysis, exercises
 
 ##### Subject & Goal
  * Insertion sort, selection sort.
- * scaling of algorithms, big O notation.
+ * Scaling of algorithms, big O notation.
 
 #### Resources
-**Reading:** Chapter 1.4, 2.1 of 'Algorithms 4th edition', see ["Booksite"]() for abbreviated online version of the reading material.
+**Reading:** Chapter 1.4, 2.1 of 'Algorithms 4th edition', see ["Booksite"]() for abbreviated online version of the reading material. It is highly recommended that you read through the material, and familiarize yourselves with the basic concepts plots, tables etc.
 
-It is highly recommended that you read through the material, and familiarize yourselves with the basic concepts plots, tables etc.
-
-**Code:** you should do this yourselves, but some assistance is avaible through the booksite.
+**Code:** you should do this yourselves, but some assistance is avaible through the booksite. It often is a good idea to team up outside class too. You can get much further, faster, if you're helping eahcother to ideas.
 
 #### Classroom exercises
-TBD.
+TBD.(to-be-determined) -- but will be taken in context of the chapters 1.4 and 2.1 of reading material.
 
 #### Hand-in group projects
 Assignment 01 - Sorting Shakespeare's Collected Works, is made available from first day of this week. It has a deadline of 15/2, 08:30. You can find it in [this week's weekly folder](https://github.com/datsoftlyngby/soft2019spring-algorithms/tree/master/Weeklies/Week_05/Assignment_01).
