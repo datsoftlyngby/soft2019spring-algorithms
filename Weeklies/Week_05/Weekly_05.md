@@ -1,30 +1,25 @@
 ### Algorithms & Data Strutures - Spring 2019
 
+----------------
 #### Week 05
 * Course information and material is availble though the Moodle flow.
 * Announcements -- fx about weeklies like this one you're reading -- are made through the Moodle flow. 
 
-##### Main Subject
+**Main Subject:** Introduction to the course, expectations, infrastructure, the overall plan for the semester. Simple algorithms, analysis, exercises.
 
-1. Introduction to the course, expectations, infrastructure, the overall plan for the semester
-2. Simple algorithms, analysis, exercises
+**Subject & Goal:** Insertion sort, selection sort. Scaling of algorithms, big O notation.
 
-##### Subject & Goal
- * Insertion sort, selection sort.
- * Scaling of algorithms, big O notation.
+**Estimated need for activity out side classroom:** You should probably spend some 4-5 hours outside class this time only. The concepts of analysis of algorithms is extremely central in this course, so be careful to read (and read again) Chapters 1.4 and 2.1 .
 
+-----------------
 #### Resources
 **Reading:** Chapter 1.4, 2.1 of 'Algorithms 4th edition', see ["Booksite"]() for abbreviated online version of the reading material. It is highly recommended that you read through the material, and familiarize yourselves with the basic concepts plots, tables etc.
 
 **Code:** you should do this yourselves, but some assistance is avaible through the booksite. It often is a good idea to team up outside class too. You can get much further, faster, if you're helping eahcother to ideas.
 
-#### Classroom exercises
-TBD.(to-be-determined) -- but will be taken in context of the chapters 1.4 and 2.1 of reading material.
+**Classroom exercises:** TBD (to-be-determined) -- but will be taken in context of the chapters 1.4 and 2.1 of reading material.
 
-----------
+-----------------
 #### NB: Hand-in group project number 1
 **Assignment 01 - Sorting Shakespeare's Collected Works:** is made available from first day of this week. It has a deadline of 15/2, 08:30. You can find it in [this week's weekly folder](https://github.com/datsoftlyngby/soft2019spring-algorithms/tree/master/Weeklies/Week_05/Assignment_01).
------------
 
-#### Estimated need for activity out side classroom
-You should probably spend some 4-5 hours outside class this time only. The concepts of analysis of algorithms is extremely central in this course, so be careful to read (and read again) Chapters 1.4 and 2.1 .
