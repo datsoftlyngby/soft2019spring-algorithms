@@ -15,6 +15,8 @@
 ### Resources
 **Reading:** Chapter 1.4, 2.1 of 'Algorithms 4th edition', see ["Booksite"](https://algs4.cs.princeton.edu/home/) for abbreviated online version of the reading material. It is highly recommended that you read through the material, and familiarize yourselves with the basic concepts plots, tables etc.
 
+**Lecture Slides:** are available from [this current repository]().
+
 **Code:** you should do this yourselves, but some assistance is avaible through the booksite. It often is a good idea to team up outside class too. You can get much further, faster, if you're helping eahcother to ideas.
 
 **Classroom exercises:** TBD (to-be-determined) -- but will be taken in context of the chapters 1.4 and 2.1 of reading material.
