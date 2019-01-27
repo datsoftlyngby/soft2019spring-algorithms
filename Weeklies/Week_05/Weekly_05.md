@@ -15,7 +15,7 @@
 ### Resources
 **Reading:** Chapter 1.4, 2.1 of 'Algorithms 4th edition', see ["Booksite"](https://algs4.cs.princeton.edu/home/) for abbreviated online version of the reading material. It is highly recommended that you read through the material, and familiarize yourselves with the basic concepts plots, tables etc.
 
-**Lecture Slides:** are available from [this current repository](https://github.com/datsoftlyngby/soft2019spring-algorithms/tree/master/Weeklies/Week_05/Slides).
+**Lecture Slides:** are available from [the present repository](https://github.com/datsoftlyngby/soft2019spring-algorithms/blob/master/Weeklies/Week_05/Slides/01%20Introduction.pdf).
 
 **Code:** you should do this yourselves, but some assistance is avaible through the booksite. It often is a good idea to team up outside class too. You can get much further, faster, if you're helping eahcother to ideas.
 
