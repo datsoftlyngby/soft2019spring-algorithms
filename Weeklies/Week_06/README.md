@@ -31,7 +31,7 @@ Simple algorithms, analysis, exercises; continued. We will take a look at a more
 -----------------
 ### Resources
 
-**Reading:** This week, read only chapter 2.2 of 'Algorithms 4th Edition' (see ["Booksite"](https://algs4.cs.princeton.edu/home/) for abbreviated online version). 
+**Reading:** For this week, read only chapter 2.2 of 'Algorithms 4th Edition' (see ["Booksite"](https://algs4.cs.princeton.edu/home/) for abbreviated online version). 
 
 **Lecture Slides:** are available from [the present repository](https://github.com/datsoftlyngby/soft2019spring-algorithms/blob/master/Weeklies/Week_06/Slides/02%20Introduction.pdf).
 
