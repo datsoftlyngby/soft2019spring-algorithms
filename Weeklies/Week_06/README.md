@@ -1,17 +1,17 @@
-## Algorithms & Data Strutures - Spring 2019
+# Algorithms & Data Strutures - Spring 2019
 
-### Week 06
+## Week 06
 
 Announcements and general information is available through the [Moodle flow](https://cphbusiness.mrooms.net/course/view.php?id=3150). 
 
 -----------------
 
-#### Focus this week
+### Focus this week
 Simple algorithms, analysis, exercises; continued. We will take a look at a more efficient sorting algorithm, and start to appreciate that even the structure/sorting of data matters when choosing/coding your software. Remember your big O analysis and Tree-sort from Week 05.
 
 -----------------
 
-#### Classroom Activities 
+### Classroom Activities 
 
 - Mentimeter [www.menti.com](https://www.menti.com): are we close to a common comfort zone? Instructions on how to join will be given in class.
 - Infrastructure, is everyone set? :
@@ -29,7 +29,7 @@ Simple algorithms, analysis, exercises; continued. We will take a look at a more
 **Estimated need for activity out side classroom:** Some 6 hours outside class, including reading. The concepts of analysis of algorithms should be fairly well established by end of Week 5. If not, be careful to review Chapters 1.4 and 2.1 of the book 'Algorithms 4th Edition' or browse through -- and understand -- the nitty-gritty details of the excerpts at ["Booksite"](https://algs4.cs.princeton.edu/home/).
 
 -----------------
-#### Resources
+### Resources
 
 **Reading:** This week, read only chapter 2.2 of 'Algorithms 4th Edition' (see ["Booksite"](https://algs4.cs.princeton.edu/home/) for abbreviated online version). 
 
