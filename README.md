@@ -7,11 +7,9 @@
 ### Weeklies
 **All course work material:** Will be accessible through GitHub on an incremental need-to-know basis, here: [https://github.com/datsoftlyngby/soft2019spring-algorithms/tree/master/Weeklies](https://github.com/datsoftlyngby/soft2019spring-algorithms/tree/master/Weeklies)
 
-**Course Lecture Slides:** Slides will be posted retrospectively (and incrementally) on GitHub under the [Weeklies](https://github.com/datsoftlyngby/soft2019spring-algorithms/tree/master/Weeklies).
-
-**Mandatory hand-in assignments and classroom exercises:** Will be posted incrementally on GitHub under the [Weeklies](https://github.com/datsoftlyngby/soft2019spring-algorithms/tree/master/Weeklies).
-
-**Reading Material**
+- **Course Lecture Slides:** Slides will be posted retrospectively (and incrementally) on GitHub under the [Weeklies](https://github.com/datsoftlyngby/soft2019spring-algorithms/tree/master/Weeklies).
+- **Mandatory hand-in assignments and classroom exercises:** Will be posted incrementally on GitHub under the [Weeklies](https://github.com/datsoftlyngby/soft2019spring-algorithms/tree/master/Weeklies).
+- **Reading Material**
 _NB: the Polytechnic Bookstore is reporting lack of availability of hardcopies of the book. However, we can get most of the content by using the online resources, which you can find at the ["Booksite":](https://algs4.cs.princeton.edu/home/)_
 
 * Online material and code base is available at the ["Booksite"](https://algs4.cs.princeton.edu/home/), with all resources available. 
