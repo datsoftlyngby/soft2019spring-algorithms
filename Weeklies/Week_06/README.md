@@ -1,13 +1,16 @@
 ## Algorithms & Data Strutures - Spring 2019
 
 ### Week 06
+
 Announcements and general information is available through the [Moodle flow](https://cphbusiness.mrooms.net/course/view.php?id=3150). 
 
 -----------------
+
 ####Focus this week
 Simple algorithms, analysis, exercises; continued. We will take a look at a more efficient sorting algorithm, and start to appreciate that even the structure/sorting of data matters when choosing/coding your software. Remember your big O analysis and Tree-sort from Week 05.
 
 -----------------
+
 ####Classroom Activities 
 
 - Mentimeter [www.menti.com](https://www.menti.com): are we close to a common comfort zone? Instructions on how to join will be given in class.
