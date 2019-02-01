@@ -1,7 +1,7 @@
 # Algorithms & Data Strutures - Spring 2019
 
 ### Course Curriculum & Exam Information
-* The course [plan and curriculum is avaliable here.](https://datsoftlyngby.github.io/soft2019spring/ALG_plan.md) 
+* The course [plan and curriculum is avaliable here.](https://datsoftlyngby.github.io/soft2019spring/ALG_plan.html) 
 * Course information is availble though the course's [Moodle flow](https://cphbusiness.mrooms.net/course/editsection.php?id=27735&sr=0), and from the links below.
 
 ### Reading Material
