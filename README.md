@@ -11,7 +11,6 @@
 - **Mandatory hand-in assignments and classroom exercises:** Will be posted incrementally on GitHub under the [Weeklies](https://github.com/datsoftlyngby/soft2019spring-algorithms/tree/master/Weeklies).
 - **Reading Material**
 _NB: the Polytechnic Bookstore is reporting lack of availability of hardcopies of the book. However, we can get most of the content by using the online resources, which you can find at the ["Booksite":](https://algs4.cs.princeton.edu/home/)_
-
-* Online material and code base is available at the ["Booksite"](https://algs4.cs.princeton.edu/home/), with all resources available. 
-* Occasionally excerpts from the book _"Algorithms Fourth Edition"_ (Addison-Wesley 2011), by Robert Sedgewick & Kevin Wayne. 
-* Alternatively, if you wish to buy the book in electronic form, you could try [Amazon](https://www.amazon.com/Algorithms-Algorithms-4-Robert-Sedgewick-ebook-dp-B004P8J1NA/dp/B004P8J1NA/ref=mt_kindle?_encoding=UTF8&me=&qid=) for that.
+  * Online material and code base is available at the ["Booksite"](https://algs4.cs.princeton.edu/home/), with all resources available. 
+  * Occasionally excerpts from the book _"Algorithms Fourth Edition"_ (Addison-Wesley 2011), by Robert Sedgewick & Kevin Wayne. 
+  * Alternatively, if you wish to buy the book in electronic form, you could try [Amazon](https://www.amazon.com/Algorithms-Algorithms-4-Robert-Sedgewick-ebook-dp-B004P8J1NA/dp/B004P8J1NA/ref=mt_kindle?_encoding=UTF8&me=&qid=) for that.
