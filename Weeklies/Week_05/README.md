@@ -2,8 +2,8 @@
 
 ----------------
 ### Week 05
-* Course information and material is availble though the course's [Moodle flow](https://cphbusiness.mrooms.net/course/view.php?id=3150).
 * Announcements -- fx about weeklies like this one you're reading -- are given through the [Moodle flow](https://cphbusiness.mrooms.net/course/view.php?id=3150). 
+* Course information and material is availble though the course's [Moodle flow](https://cphbusiness.mrooms.net/course/view.php?id=3150).
 
 **Main Subject:** Introduction to the course, expectations, infrastructure, the overall plan for the semester. Simple algorithms, analysis, exercises.
 
