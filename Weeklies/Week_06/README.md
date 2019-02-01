@@ -16,7 +16,7 @@ Simple algorithms, analysis, exercises; continued. We will take a look at a more
 - Mentimeter [www.menti.com](https://www.menti.com): are we close to a common comfort zone? Instructions on how to join will be given in class.
 - Infrastructure, is everyone set? :
 
-  * **Java**-devel-env Check
+  * **Java**-devel Check
   * **Moodle**-access Check
   * **Github**-clone Check
   * **Peergrade**-access Check.
