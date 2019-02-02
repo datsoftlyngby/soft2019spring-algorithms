@@ -13,7 +13,7 @@ Simple algorithms, analysis, exercises; continued. We will take a look at a more
 
 ### Classroom Activities 
 
-- Mentimeter [www.menti.com](https://www.menti.com): are we close to a common comfort zone? Instructions on how to join will be given in class.
+- Mentimeter [www.menti.com](https://www.menti.com): are we close to (but not in!) our comfort zone? Instructions on how to join the poll will be given in class.
 - Infrastructure, is everyone set? :
 
   * **Java**-devel Check
