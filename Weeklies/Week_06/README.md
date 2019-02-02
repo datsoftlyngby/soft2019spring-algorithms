@@ -23,7 +23,7 @@ Simple algorithms, analysis, exercises; continued. We will take a look at a more
 
 - Student Q & A session on the 1st Hand-in Assignment ('Sorting Shakespeare'), to make sure we're all clear on how to progress.
 - We will review the exercises from last week, by peer presentations and discussion, to see how far we could get during introductory week. :-)
-- Merge Sort, introduction, and exercises to follow.
+- Merge Sort, Quick Sort, and exercises to follow.
 
 
 **Estimated need for activity out side classroom:** Some 6 hours outside class, including reading. The concepts of analysis of algorithms should be fairly well established by end of Week 5. If not, be careful to review Chapters 1.4 and 2.1 of the book 'Algorithms 4th Edition' or browse through -- and understand -- the nitty-gritty details of the excerpts at ["Booksite"](https://algs4.cs.princeton.edu/home/).
