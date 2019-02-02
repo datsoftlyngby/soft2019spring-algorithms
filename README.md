@@ -14,4 +14,4 @@ _NB: the Polytechnic Bookstore is reporting lack of availability of hardcopies o
   * Online material and code base is available at the ["Booksite"](https://algs4.cs.princeton.edu/home/), with all resources available. 
   * Occasionally excerpts from the book _"Algorithms Fourth Edition"_ (Addison-Wesley 2011), by Robert Sedgewick & Kevin Wayne. 
   * Alternatively, if you wish to buy the book in electronic form, you could try [Amazon](https://www.amazon.com/Algorithms-Algorithms-4-Robert-Sedgewick-ebook-dp-B004P8J1NA/dp/B004P8J1NA/ref=mt_kindle?_encoding=UTF8&me=&qid=) for that.
-  * Rumor has it that PFDs copies of the book roam the internet..
+  * Rumor has it that PDF copies of the book roam the internet..
