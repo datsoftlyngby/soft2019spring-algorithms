@@ -38,3 +38,5 @@ Simple algorithms, analysis, exercises; continued. We will take a look at a more
 **Code:** you should go through the exercises **with your group**, from scratch, although some assistance is available through the ["Booksite"](https://algs4.cs.princeton.edu/home/).
 
 **Classroom exercises:** TBD (to-be-determined) -- but will be taken in context of the chapter 2.2 of reading material.
+
+**Workshop Hours:** I will be settling on a module during the week, where I will be stationed in a room/office space on the CPHBUS campus, so that we might get a chance to look over the things that you (or I) are wondering about. It will be announced on the Moodle Flow ASAP.
