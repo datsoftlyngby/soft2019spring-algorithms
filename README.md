@@ -1,33 +1,17 @@
 # Algorithms & Data Strutures - Spring 2019
 
-## Week 07
+### Course Curriculum & Exam Information
+* General information is availble though the course's [Moodle flow](https://cphbusiness.mrooms.net/course/editsection.php?id=27735&sr=0), and from the links below.
+* [Plan and curriculum is avaliable here.](https://datsoftlyngby.github.io/soft2019spring/ALG_plan.html) 
 
-Announcements and general information is available through the [Moodle flow](https://cphbusiness.mrooms.net/course/view.php?id=3150). 
+### Weeklies
+**All course work material:** Will be accessible through GitHub on an incremental need-to-know basis, here: [https://github.com/datsoftlyngby/soft2019spring-algorithms/tree/master/Weeklies](https://github.com/datsoftlyngby/soft2019spring-algorithms/tree/master/Weeklies)
 
------------------
-
-### Focus this week
-...
-
------------------
-
-### Classroom Activities 
-
-- Mentimeter [www.menti.com](https://www.menti.com) ...
-- Review of exercises from last week, by peer presentations and discussion.
-- Student Q & A session ...
-- ...
-- ...
-
-**Estimated need for activity out side classroom:** ...
-
------------------
-### Resources
-
-**Reading:** For this week, read chapter ... of 'Algorithms 4th Edition' (see ["Booksite"](https://algs4.cs.princeton.edu/home/) for abbreviated online version). 
-
-**Lecture Slides:** are available through [the GitHub repository](https://github.com/datsoftlyngby/soft2019spring-algorithms/blob/master/Weeklies/Week_06/Slides/02%20Introduction.pdf), on an incremental basis.
-
-**Code:** you should go through the exercises _**with your group**_, from scratch, although some assistance is available through the ["Booksite"](https://algs4.cs.princeton.edu/home/).
-
-**Classroom exercises:** TBD (to-be-determined) -- but will be taken in context of the chapter ... of reading material.
+- **Course Lecture Slides:** Slides will be posted retrospectively (and incrementally) on GitHub under the [Weeklies](https://github.com/datsoftlyngby/soft2019spring-algorithms/tree/master/Weeklies).
+- **Mandatory hand-in assignments and classroom exercises:** Will be posted incrementally on GitHub under the [Weeklies](https://github.com/datsoftlyngby/soft2019spring-algorithms/tree/master/Weeklies).
+- **Reading Material**
+_NB: the Polytechnic Bookstore is reporting lack of availability of hardcopies of the book. However, we can get most of the content by using the online resources, which you can find at the ["Booksite":](https://algs4.cs.princeton.edu/home/)_
+  * Online material and code base is available at the ["Booksite"](https://algs4.cs.princeton.edu/home/), with all resources available. 
+  * Occasionally excerpts from the book _"Algorithms Fourth Edition"_ (Addison-Wesley 2011), by Robert Sedgewick & Kevin Wayne. 
+  * Alternatively, if you wish to buy the book in electronic form, you could try [Amazon](https://www.amazon.com/Algorithms-Algorithms-4-Robert-Sedgewick-ebook-dp-B004P8J1NA/dp/B004P8J1NA/ref=mt_kindle?_encoding=UTF8&me=&qid=) for that.
+  * Rumor has it that PFDs copies of the book roam the internet..
