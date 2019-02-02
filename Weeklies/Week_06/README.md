@@ -2,7 +2,7 @@
 
 ## Week 06
 
-Announcements and general information is available through the [Moodle flow](https://cphbusiness.mrooms.net/course/view.php?id=3150). 
+(Announcements and general information is available through the [Moodle flow](https://cphbusiness.mrooms.net/course/view.php?id=3150)) 
 
 -----------------
 
