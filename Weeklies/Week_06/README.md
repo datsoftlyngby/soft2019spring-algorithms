@@ -13,12 +13,12 @@ Simple algorithms, analysis, exercises; continued. We will take a look at a more
 
 ### Classroom Activities 
 
-- Infrastructure -- is everyone set? :
+- Infrastructure -- is everyone set? Check up on:
 
-  * **Java**-devel Check
-  * **Moodle**-access Check
-  * **Github**-clone Check
-  * **Peergrade**-access Check.
+  * **Java** devel environment
+  * **Moodle** access and usage
+  * **Github** access and usage
+  * **Peergrade** access and usage.
 
 - Mentimeter [www.menti.com](https://www.menti.com): Instructions on how to join the poll will be given in class.
   - Are we close to (but not in!) our comfort zone?
