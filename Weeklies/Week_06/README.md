@@ -20,7 +20,7 @@ Simple algorithms, analysis, exercises; continued. We will take a look at a more
   * **Github** access and usage
   * **Peergrade** access and usage.
 
-- Mentimeter: Instructions on how to join the poll will be given in class.
+- Mentimeter (instructions will be given in class):
   - Are we close to (but not in!) our comfort zone?
   - Workshop Hours -- when are the optimal hours here?
 
@@ -41,3 +41,5 @@ Simple algorithms, analysis, exercises; continued. We will take a look at a more
 **Code:** you should go through the exercises **with your group**, from scratch, although some assistance is available through the ["Booksite"](https://algs4.cs.princeton.edu/home/).
 
 **Classroom exercises:** given in context of the chapter 2.2 of reading material.
+
+**Workshop Hours:** we will settle for a weekly time slot, when I will be stationed in a room/office space on the CPHBUS campus, so that we might get a chance to look over the things that you (or I) are wondering about. It will be announced on the Moodle Flow ASAP, after we've made a decision during class this week (week 6) over Mentimeter.
