@@ -13,13 +13,15 @@ Simple algorithms, analysis, exercises; continued. We will take a look at a more
 
 ### Classroom Activities 
 
-- Mentimeter [www.menti.com](https://www.menti.com): are we close to (but not in!) our comfort zone? Instructions on how to join the poll will be given in class.
 - [Infrastructure](www.menti.com), is everyone set? :
 
   * **Java**-devel Check
   * **Moodle**-access Check
   * **Github**-clone Check
   * **Peergrade**-access Check.
+
+- Mentimeter [www.menti.com](https://www.menti.com): are we close to (but not in!) our comfort zone? Instructions on how to join the poll will be given in class.
+
 - [Workshop Hours](www.menti.com), TBD -- when are the optimal hours here?
 
 - Student Q & A session on the 1st Hand-in Assignment ('Sorting Shakespeare'), to make sure we're all clear on how to progress.
