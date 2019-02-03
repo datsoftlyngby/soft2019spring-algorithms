@@ -20,9 +20,9 @@ Simple algorithms, analysis, exercises; continued. We will take a look at a more
   * **Github**-clone Check
   * **Peergrade**-access Check.
 
-- Mentimeter [www.menti.com](https://www.menti.com): are we close to (but not in!) our comfort zone? Instructions on how to join the poll will be given in class.
-
-- [Workshop Hours](www.menti.com), TBD -- when are the optimal hours here?
+- Mentimeter [www.menti.com](https://www.menti.com): Instructions on how to join the poll will be given in class.
+  - Are we close to (but not in!) our comfort zone?
+  - [Workshop Hours](www.menti.com), TBD -- when are the optimal hours here?
 
 - Student Q & A session on the 1st Hand-in Assignment ('Sorting Shakespeare'), to make sure we're all clear on how to progress.
 - We will review the exercises from last week, by peer presentations and discussion, to see how far we could get during introductory week. :-)
