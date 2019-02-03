@@ -20,7 +20,7 @@ Simple algorithms, analysis, exercises; continued. We will take a look at a more
   * **Github** access and usage
   * **Peergrade** access and usage.
 
-- Mentimeter [www.menti.com](https://www.menti.com): Instructions on how to join the poll will be given in class.
+- Mentimeter: Instructions on how to join the poll will be given in class.
   - Are we close to (but not in!) our comfort zone?
   - Workshop Hours -- when are the optimal hours here?
 
