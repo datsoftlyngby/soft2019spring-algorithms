@@ -7,12 +7,13 @@ Announcements and general information is available through the [Moodle flow](htt
 -----------------
 
 ### Focus this week
-...
+Abstract data structures (ADSs), and searching ADSs. 
 
 -----------------
 
 ### Classroom Activities 
 
+- Check that we all got the hand-in assignment properly submitted to peergrade.
 - Review of exercises from last week, by peer presentations and discussion.
 - Student Q & A session
 - ...
