@@ -13,9 +13,8 @@ Announcements and general information is available through the [Moodle flow](htt
 
 ### Classroom Activities 
 
-- Mentimeter [www.menti.com](https://www.menti.com) ...
 - Review of exercises from last week, by peer presentations and discussion.
-- Student Q & A session ...
+- Student Q & A session
 - ...
 - ...
 
@@ -24,12 +23,12 @@ Announcements and general information is available through the [Moodle flow](htt
 -----------------
 ### Resources
 
-**Reading:** For this week, read chapter ... of 'Algorithms 4th Edition' (see ["Booksite"](https://algs4.cs.princeton.edu/home/) for abbreviated online version). 
+**Reading:** For this week, read chapters 1.3, 3.3 and 3.4 of 'Algorithms 4th Edition' (see ["Booksite"](https://algs4.cs.princeton.edu/home/) for abbreviated online version). 
 
-**Lecture Slides:** are available through [the GitHub repository](https://github.com/datsoftlyngby/soft2019spring-algorithms/blob/master/Weeklies/Week_06/Slides/02%20Introduction.pdf), on an incremental basis.
+**Lecture Slides:** available through [the GitHub repository](https://github.com/datsoftlyngby/soft2019spring-algorithms/blob/master/Weeklies/Week_07/Slides/03%20Searching%20Lists.pdf), soon.
 
-**Code:** you should go through the exercises _**with your group**_, from scratch, although some assistance is available through the ["Booksite"](https://algs4.cs.princeton.edu/home/).
+**Code:** you should go through the classroom/homework exercises _**with your group**_, from scratch, although some assistance is available through the ["Booksite"](https://algs4.cs.princeton.edu/home/).
 
-**Classroom exercises:** TBD (to-be-determined) -- but will be taken in context of the chapter ... of reading material.
+**Classroom exercises:** TBD, but will be taken in context of the chapters 1.3, 3.3 and 3.4 of reading material.
 
-**Workshop Hours:** I will be settling on a module during the week, where I will be stationed in a room/office space on the CPHBUS campus, so that we might get a chance to look over the things that you (or I) are wondering about. It will be announced on the Moodle Flow ASAP.
+**Workshop Hours:** Tuesdays 12:30-14:00 in the cubicles in the corridor.
