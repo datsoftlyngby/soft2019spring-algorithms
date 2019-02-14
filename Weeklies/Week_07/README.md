@@ -25,7 +25,7 @@ We left algorithmic analysis and sorting, only to find that also the data struct
 -----------------
 ### Resources
 
-**Reading:** this week, read _as extensive reading_ chapters 1.3, 3.1 and 3.2 of 'Algorithms 4th Edition' (see ["Booksite"](https://algs4.cs.princeton.edu/home/) for abbreviated online version). 
+**Reading:** this week is chapters 1.3, 3.1 and 3.2 of 'Algorithms 4th Edition' (see ["Booksite"](https://algs4.cs.princeton.edu/home/) for abbreviated online version). **NB:** read it to get an overview, so not completely _intensively_. Yet, you should remember core concepts...
 
 **Lecture Slides:** available through [the GitHub repository](https://github.com/datsoftlyngby/soft2019spring-algorithms/blob/master/Weeklies/Week_07/Slides/03%20Searching%20Lists.pdf), soon.
 
