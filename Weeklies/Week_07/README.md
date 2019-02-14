@@ -9,7 +9,7 @@ Announcements and general information is available through the [Moodle flow](htt
 ### Focus this week
 Abstract data structures (ADSs), and searching ADSs. 
 
-We left algorithmic analysis and sorting, only to find that also the data structures, which we employ, could hold serious impact on code comprehension, complexity and performance. We shall begin to look into structure as well, starting this week with basics and then -- more importantly -- examples through exercises.
+We left algorithmic analysis and sorting, only to find that also the data structures, which we employ, could hold some impact on code comprehension, complexity and performance. We shall begin to look into structure as well, starting this week with basics and then -- more importantly -- examples through exercises.
 
 -----------------
 
