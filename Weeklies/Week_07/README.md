@@ -9,13 +9,14 @@ Announcements and general information is available through the [Moodle flow](htt
 ### Focus this week
 Abstract data structures (ADSs), and searching ADSs. 
 
-We left algorithmic analysis and sorting, only to find that also the data structures, which we employ, could hold serious impact on code comprehension, complexity and performance. We shall begin to look into structure as well, starting this week with basics and then -- more importantly -- examples.
+We left algorithmic analysis and sorting, only to find that also the data structures, which we employ, could hold serious impact on code comprehension, complexity and performance. We shall begin to look into structure as well, starting this week with basics and then -- more importantly -- examples through exercises.
 
 -----------------
 
 ### Classroom Activities 
 
-- Check: did we all hand in assignment #1, properly submitted to peergrade?
+- Check: did we all hand in assignment #1, properly submitted to peergrade? 
+- Check: is everyone ready to conduct the peer review?
 - Review of exercises from last week, by peer presentations and discussion. Team _'NSquared'_ is anchor on (but accountable for) the review.
 - Student Q & A session
 
@@ -24,7 +25,7 @@ We left algorithmic analysis and sorting, only to find that also the data struct
 -----------------
 ### Resources
 
-**Reading:** For this week, read _as extensive reading_ chapters 1.3, 3.1 and 3.2 of 'Algorithms 4th Edition' (see ["Booksite"](https://algs4.cs.princeton.edu/home/) for abbreviated online version). 
+**Reading:** this week, read _as extensive reading_ chapters 1.3, 3.1 and 3.2 of 'Algorithms 4th Edition' (see ["Booksite"](https://algs4.cs.princeton.edu/home/) for abbreviated online version). 
 
 **Lecture Slides:** available through [the GitHub repository](https://github.com/datsoftlyngby/soft2019spring-algorithms/blob/master/Weeklies/Week_07/Slides/03%20Searching%20Lists.pdf), soon.
 
