@@ -11,7 +11,7 @@ Abstract data structures (ADSs), and searching ADSs.
 
 We left algorithmic analysis and sorting, only to find that also the data structures, which we employ, could hold some impact on code comprehension, complexity and performance. We shall begin to look into structure as well, starting this week with basics and then -- more importantly -- examples through exercises.
 
-**NB: Hand-in Assignment 2 is presented. Submission deadline Feb.26th. Please see Week_07/Assignment_02.**
+**NB: Hand-in Assignment 2 is presented. Submission deadline Feb.26th. Please see [Week_07/Assignment_02](https://github.com/datsoftlyngby/soft2019spring-algorithms/tree/master/Weeklies/Week_07/Assignment_02).**
 
 -----------------
 
