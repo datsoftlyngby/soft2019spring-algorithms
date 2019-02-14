@@ -15,10 +15,12 @@ We left algorithmic analysis and sorting, only to find that also the data struct
 
 ### Classroom Activities 
 
-- Check: did we all hand in assignment #1, properly submitted to peergrade? 
-- Check: is everyone ready to conduct the peer review?
+- Check: is Hand-in assignment #1 properly submitted on time? 
+- Mentimeter: is everyone ready to conduct the peer review?
+- Peergrade: the how.tos, how.not.tos.
 - Review of exercises from last week, by peer presentations and discussion. Team _'NSquared'_ is anchor on (but accountable for) the review.
-- Student Q & A session
+- Student Q & A session.
+- New topics, symbol tables and searching.
 
 **Estimated need for activity out side classroom:** This week has some serious coding ahead. Sp you may find that 6 hours may suffice, but think '8' instead. I will relieve some of that to be started off during classroom time, since the lectures will be a bit more sparse this week.
 
