@@ -35,6 +35,6 @@ We left algorithmic analysis and sorting, only to find that also the data struct
 
 **Code:** you should go through the classroom exercises _**with your group**_, from scratch, although some assistance is available through the ["Booksite"](https://algs4.cs.princeton.edu/home/).
 
-**Classroom exercises:** TBD, but will be taken in context of the chapters 1.3, 3.1 and 3.2 of reading material.
+**Classroom exercises:** TBD, but will be taken in context of the chapters 1.3 and 3.1 of the reading material.
 
 **Workshop Hours:** p.t. most probably Tuesdays 12:30-14:00 in the cubicles in the corridor.
