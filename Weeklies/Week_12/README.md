@@ -1,4 +1,4 @@
-# Algorithms & Data Strutures - Spring 2019
+# Algorithms & Data Structures - Spring 2019
 
 ## Week 12
 
