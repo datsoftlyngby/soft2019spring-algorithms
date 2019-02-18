@@ -7,9 +7,9 @@ Announcements and general information is available through the [Moodle flow](htt
 -----------------
 
 ### Focus this week
-We continue the topic of symbol tables (STs) and abstract data structures (ADS), starting out with Anders Kalhauge guest starring with talks about hashing tables (STs). 
+We continue the topic of symbol tables (STs) and abstract data structures (ADS), starting out with Anders Kalhauge guest starring with talks about hashing tables (and hashing of STs). 
 
-From last week we learned that various data structures, such as unordered list STS and ordered array STS significantly different perormance during search, insertion, deletion (N vs N*lgN or even lgN).
+From last week we learned that various data structures, such as unordered list STs and ordered array STs significantly different perormance during search, insertion, deletion ($N$ vs. $N lg N$, or even $lg N$).
 
 This week we look at tree ADSs; binary trees, 2-3 / red-black trees, and touch lightly upon balanced search trees which generalize concepts tree-searchable symbol tables.
 
