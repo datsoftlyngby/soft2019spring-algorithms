@@ -9,7 +9,7 @@ Announcements and general information is available through the [Moodle flow](htt
 ### Focus this week
 We continue the topic of symbol tables (STs) and abstract data structures (ADS), starting out with Anders Kalhauge guest starring with talks about hashing tables (and hashing of STs). 
 
-From last week we learned that various data structures, such as unordered list STs and ordered array STs significantly different perormance during search, insertion, deletion ($N$ vs. $N lg N$, or even $lg N$).
+From last week we learned that various data structures, such as unordered list STs and ordered array STs significantly different perormance during search, insertion, deletion -- from O(N) to O(N lg N), or even down to O(lg N).
 
 This week we look at tree ADSs; binary trees, 2-3 / red-black trees, and touch lightly upon balanced search trees which generalize concepts tree-searchable symbol tables.
 
@@ -19,6 +19,7 @@ This week we look at tree ADSs; binary trees, 2-3 / red-black trees, and touch l
 
 - Mentimeter [www.menti.com](https://www.menti.com), weekly check-up.
 - Infrastructure check. Are we well within our learning platform?
+- Assignment #2, Q&A if needed.
 - If needed: review of exercises from last week, by peer presentation and discussion.
 - Lectures & Exercises.
 
@@ -34,3 +35,5 @@ This week we look at tree ADSs; binary trees, 2-3 / red-black trees, and touch l
 **Code:** you should go through the exercises _**with your group**_, from scratch, although some assistance is available through the ["Booksite"](https://algs4.cs.princeton.edu/home/).
 
 **Classroom exercises:** TBD (to-be-determined) -- but will be taken in context of the chapters 3.2-3.4 of reading material.
+
+**Workshop hours:** are cancelled due to meetings this week. You can still send email, though.
