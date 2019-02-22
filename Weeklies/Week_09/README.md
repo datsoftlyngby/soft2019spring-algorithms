@@ -23,7 +23,7 @@ Priority queues.
 -----------------
 ### Resources
 
-**Reading:** For this week, read chapter 2.4 of 'Algorithms 4th Edition' very thoroughly. See ["Booksite"](https://algs4.cs.princeton.edu/home/) for abbreviated online version). 
+**Reading:** chapter 2.4 (except section 'Heapsort') of 'Algorithms 4th Edition', read it thoroughly. See ["Booksite"](https://algs4.cs.princeton.edu/home/) for abbreviated online version). 
 
 **Lecture Slides:** are available through [the GitHub repository](https://github.com/datsoftlyngby/soft2019spring-algorithms/blob/master/Weeklies/Week_06/Slides/02%20Introduction.pdf), on an incremental basis.
 
