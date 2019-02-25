@@ -32,3 +32,4 @@ Priority queues.
 **Classroom exercises:** TBD (to-be-determined) -- but will be taken in context of the chapter ... of reading material.
 
 **Hand-In Assignment #3** will be explained on Tuesday, but will be availble in the GitHub repo ahead of Classroom hours.
+ 
