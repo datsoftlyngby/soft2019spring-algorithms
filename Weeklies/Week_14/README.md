@@ -2,6 +2,7 @@
 
 ## Week 14
 **NB: change of venue: we shall be in Room CL-305, this week.**
+
 Announcements and general information is available through the [Moodle flow](https://cphbusiness.mrooms.net/course/view.php?id=3150). 
 
 -----------------
