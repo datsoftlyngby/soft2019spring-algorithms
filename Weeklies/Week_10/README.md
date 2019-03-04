@@ -18,7 +18,7 @@ We will continue Priority queues, in particular around heaps and heap sorting th
 - Review of exercises from last week, by peer presentations and discussion.
 - Lectures & Exercises.
 
-**Estimated need for activity out side classroom:** 3-5 hours for this week.
+**Estimated need for activity outside classroom:** 3-5 hours for this week.
 
 -----------------
 ### Resources
