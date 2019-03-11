@@ -16,6 +16,7 @@ For the coming three weeks, we shall delve into **graphs**. Undirected graphs, d
 ### Classroom Activities 
 
 - Mentimeter: **NO** mentimeter this time. :-) 
+- We need to settle on dates for both the course evaluation and the mid-term exam. I vote for 23/4.
 - Review of exercises from last week, by peer presentations and discussion (if needed).
 - Group presentation of Hand-in assignment #2.
   - The teams **_'Konstanten N'_** and **_'Big O'_** have volunteered to present their work on hand-in assignment #2 ('Searching Shakespeare'), and facilitate feedback, generally.
