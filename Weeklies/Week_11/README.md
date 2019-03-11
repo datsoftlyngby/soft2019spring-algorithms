@@ -28,7 +28,7 @@ For the coming three weeks, we shall delve into **graphs**. Undirected graphs, d
 -----------------
 ### Resources
 
-**Reading:** For this week, read chapters 4.1 and 4.2 of 'Algorithms 4th Edition' (see ["Booksite"](https://algs4.cs.princeton.edu/home/) for abbreviated online version). 
+**Reading:** For this week, read chapter 4.1 of 'Algorithms 4th Edition' (see ["Booksite"](https://algs4.cs.princeton.edu/home/) for abbreviated online version). 
 
 **Lecture Slides:** will be available through [the GitHub repository](https://github.com/datsoftlyngby/soft2019spring-algorithms/blob/master/Weeklies/Week_11/Slides/02%20Introduction.pdf) after classroom session.
 
