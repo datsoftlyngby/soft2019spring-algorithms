@@ -15,19 +15,19 @@ Since we did not have time during week 11 to finish our exercises, in particular
 
 ### Classroom Activities 
 
-- Date for both the course evaluation, and the mid-term exam, has been agreed for the 23/4.
-- Review of exercises from last week, by peer presentations and discussion (if needed).
+- Date for both the course evaluation, and the mid-term exam, has been agreed for the 23/4. We're nearing a fixation of that date, last chance to input on possible reasons to choose something apart from 23/4.
 - Group presentation of Hand-in assignment #3.
   - The teams **_'NSquared'_** and **_'NoGroup'_** have volunteered to present their work on hand-in assignment #3 ('Airport Queueing'), and facilitate feedback, generally.
-- A few exercises, which will ask for your creativity.
+- Review of exercises from last week, by peer presentations and discussion (if needed).
 - Pop-up quizzes.
+- Walk-through chapter 4.2 material.
 
 **Estimated need for activity out side classroom:** 3-5 hrs.
 
 -----------------
 ### Resources
 
-**Reading:** For this week, read chapter 4.2 of 'Algorithms 4th Edition', thoroughly (see also ["Booksite"](https://algs4.cs.princeton.edu/home/)). 
+**Reading:** For this week, read chapter 4.2 of 'Algorithms 4th Edition', thoroughly (see also ["Booksite"](https://algs4.cs.princeton.edu/home/)). I think a most interesting aspect, and one to keep in mind, is the close similarity between the APIs of un-directed graphs and di-graphs. 
 
 **Lecture Slides:** will be available through [the GitHub repository](https://github.com/datsoftlyngby/soft2019spring-algorithms/blob/master/Weeklies/Week_11/Slides/02%20Introduction.pdf) after classroom session.
 
