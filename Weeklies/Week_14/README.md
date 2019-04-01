@@ -8,7 +8,7 @@ Announcements and general information is available through the [Moodle flow](htt
 -----------------
 
 ### Focus this week
-We continue a bit with graphs. Benjamin has volunteeringly offered to give a review of the **_A* Shortest Path Algorithm_**, which is parametrized based on heuristics. Thank you Benjamin! Student involvement at this level is certainly most welcomed and encouraged.
+We continue a bit with graphs. Benjamin has volunteeringly offered to give a review of the **A* Shortest Path Algorithm**, which is parametrized based on heuristics. Thank you Benjamin! Student involvement at this level is certainly most welcomed and encouraged.
 
 Also, this week I have planned a regression through the past weeks of the course. We will slowly flip some slides, asking ourselves if we're grasping some of the fundamental ideas. Also; we shall do some exercises on the **_Dijkstra's_** and **_A* Algorithms_**.
 
