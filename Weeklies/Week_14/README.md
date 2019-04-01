@@ -10,14 +10,14 @@ Announcements and general information is available through the [Moodle flow](htt
 ### Focus this week
 We continue a bit with graphs. Benjamin has volunteeringly offered to give a review of the **_A<b>*</b> Shortest Path Algorithm_**, which is parametrized based on heuristics. Thank you Benjamin! Student involvement at this level is certainly most welcomed and encouraged.
 
-Also, this week I have planned a regression through the past weeks of the course. We will slowly flip some slides, asking ourselves if we're grasping some of the fundamental ideas. Also; we shall do some exercises on the **_Dijkstra's_** and **_A* Algorithms_**.
+Also, this week I have planned a regression through the past weeks of the course. We will slowly flip some slides, asking ourselves if we're grasping some of the fundamental ideas. Also; we shall do some exercises on the **_Dijkstra's_** and **_A<b>*</b> Algorithms_**.
 
 -----------------
 
 ### Classroom Activities 
 
 - Shortest Paths Tree; Dijkstra’s Algorithm, recap by exploration.
-- Shortest Path: the **_A* Algorithm_**, student presentation. Benjamin has volunteered to present the A* Algorithm. Active student participation is encouraged. Thank you Benjamin!
+- Shortest Path: the **_A<b>*</b> Algorithm_**, student presentation. Benjamin has volunteered to present the A* Algorithm. Active student participation is encouraged. Thank you Benjamin!
 - Some Exercises 
 - Regression session – where do we stand? [a self-service check] We’re at a divide: should we fastforward, or fastreverse a bit from here?
 
@@ -26,7 +26,7 @@ Also, this week I have planned a regression through the past weeks of the course
 -----------------
 ### Resources
 
-**Reading:** No textbook reading for this week. _However_: a serious checkup on the **_A* Algorithm_**: https://en.wikipedia.org/wiki/A*_search_algorithm -- and the meaning of **free parameters**, relaxation of optimality constraints, and planarity of graphs. 
+**Reading:** No textbook reading for this week. _However_: a serious checkup on the **_A<b>*</b> Algorithm_**: https://en.wikipedia.org/wiki/A*_search_algorithm -- and the meaning of **free parameters**, relaxation of optimality constraints, and planarity of graphs. 
 
 **Lecture Slides:** are available through [the GitHub repository](https://github.com/datsoftlyngby/soft2019spring-algorithms/blob/master/Weeklies/Week_14/Slides/02%20Introduction.pdf), on an incremental basis.
 
