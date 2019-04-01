@@ -17,7 +17,7 @@ Also, this week I have planned a regression through the past weeks of the course
 ### Classroom Activities 
 
 - Shortest Paths Tree; Dijkstra’s Algorithm, recap by exploration.
-- Shortest Path: the **_A<b>*</b> Algorithm_**, student presentation. Benjamin has volunteered to present the A* Algorithm. Active student participation is encouraged. Thank you Benjamin!
+- Shortest Path: the **_A<b>*</b> Algorithm_**, student presentation. Benjamin has volunteered to present the **_A<b>*</b> Algorithm_**. Active student participation is certainly encouraged. Thank you Benjamin!
 - Some Exercises 
 - Regression session – where do we stand? [a self-service check] We’re at a divide: should we fastforward, or fastreverse a bit from here?
 
