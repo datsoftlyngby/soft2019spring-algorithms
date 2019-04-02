@@ -1,0 +1,44 @@
+cities = [
+   "Arad",
+   "Bucharest",
+   "Craiova",
+   "Dobreta",
+   "Eforie",
+   "Fagaras",
+   "Giurgiu",
+   "Hirsowa",
+];
+
+# City locations not correct, but rather fitted to the graph of the lecture
+# slides for the Dijkstra's and the A* algorithms. So no comparison to a real
+# map will make sense ;-) 
+# We synthesized the graph for the purpose of illustration.
+cityLocations = [
+   [76 , 279],
+   [592, 76],
+   [1081, 433],
+   [1296, 67],
+   [69, 903],
+   [744, 699],
+   [1581, 892],
+   [594, 415],
+];
+
+connections = [
+   ["Arad", "Bucharest"],
+   ["Arad", "Hirsowa"],
+   ["Arad", "Eforie"],
+   ["Bucharest", "Dobreta"],
+   ["Bucharest", "Craiova"],
+   ["Bucharest", "Hirsowa"],
+   ["Craiova", "Dobreta"],
+   ["Craiova", "Giurgiu"],
+   ["Dobreta", "Giurgiu"],
+   ["Eforie", "Fagaras"],
+   ["Eforie", "Giurgiu"],
+   ["Eforie", "Hirsowa"],
+   ["Fagaras", "Craiova"],
+   ["Fagaras", "Giurgiu"],
+   ["Hirsowa", "Craiova"],
+   ["Hirsowa", "Fagaras"]
+];
