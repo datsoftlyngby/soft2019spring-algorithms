@@ -25,7 +25,7 @@ We have the results from the Mentimeter Poll on your self-evaluation with respec
   - Topological Sorting
   - Exercises
 - The plan ahead, towards the final exam
-- Begin review of core curriculum
+- Begin review of core curriculum, from Slide 1.
 
 **Estimated need for activity outside classroom:** between 5hrs and 15hrs until beginning Week 17; Homework reviewing the curriculum & material including the 'Booksite' material.
 
