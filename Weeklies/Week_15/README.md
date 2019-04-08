@@ -19,8 +19,13 @@ We have the results from the Mentimeter Poll on your self-evaluation with respec
 
 - Mentimeter: review of curriculum self-evalution results
 - Presentation from all groups of Assignment #4, Airline Network
-- Precedence-constrained scheduling
-- Topological sort on DAGs
+- Topological order
+  - Precedence-constrained scheduling
+  - Reverse DFS Postorder
+  - Topological Sorting
+  - Exercises
+- The plan ahead, towards the final exam
+- Begin review of core curriculum
 
 **Estimated need for activity outside classroom:** between 5hrs and 15hrs until beginning Week 17; Homework reviewing the curriculum & material including the 'Booksite' material.
 
