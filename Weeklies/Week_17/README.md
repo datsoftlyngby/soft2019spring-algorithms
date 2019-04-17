@@ -13,7 +13,7 @@ We will focus merely on getting smoothly through the test exam, and getting a gr
 
 ### Classroom Activities 
 
-- Written test examination. No communication through SoMe (or talk) allowed. However, internet and reference resources are permitted so bring your Laptops, **_as well as pen and paper_** :-) .
+- Written test examination. No communication through SoMe (or talk) allowed. However, internet and reference resources are permitted so **_bring your Laptops, as well as pen and paper_** :-) .
 
 **Estimated need for activity out side classroom:** N/A
 
