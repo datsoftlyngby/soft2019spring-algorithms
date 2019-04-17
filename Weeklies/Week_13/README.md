@@ -33,7 +33,7 @@ NB: we did not have sufficient attendance during lecture hours this week, we wil
 
 **Reading:** For this week, read chapter 4.3 and 4.4 of 'Algorithms 4th Edition' (see also ["Booksite"](https://algs4.cs.princeton.edu/home/)). You should focus on: 
 
-- Prim's and Kruskal's Algorithms (in Ch 4.3)
+- Prim's Algorithm (in Ch 4.3)
 - Dijkstra's (greedy) Algorithm (in Ch 4.4)
 - Space/time complexity charts (you know E+V or E+VlogE etc.) for both MSTs and Shortest Paths.
 
