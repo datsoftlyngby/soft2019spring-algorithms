@@ -2,7 +2,7 @@
 
 ### Course Curriculum & Exam Information
 * General information is availble though the course's [Moodle flow](https://cphbusiness.mrooms.net/course/editsection.php?id=27735&sr=0), and from the links below.
-* [Plan and curriculum is avaliable here.](https://datsoftlyngby.github.io/soft2019spring/ALG_plan.html) 
+* [Lecturing Calendar with links, availaable here.](https://datsoftlyngby.github.io/soft2019spring/ALG_plan.html) 
 
 ### Weeklies
 **All course work material:** Will be accessible through GitHub on an incremental need-to-know basis, here: [https://github.com/datsoftlyngby/soft2019spring-algorithms/tree/master/Weeklies](https://github.com/datsoftlyngby/soft2019spring-algorithms/tree/master/Weeklies)
