@@ -12,9 +12,9 @@ We will focus merely on getting smoothly through the test exam, and getting a gr
 -----------------
 
 ### Classroom Activities 
-**Written test examination. No communication through phones, SoMe (or talk) allowed. However, internet and reference resources are permitted so **_bring your Laptops, as well as pen and paper_** :-) .**
+**Be sure to arrive on time, 08:30 sharp on Tuesday!**
 
-**Be sure to arrive on time, 08:30 sharp!**
+**Written test examination. No communication through phones, SoMe (or talk) allowed. However, internet and reference resources are permitted so **_bring your Laptops, as well as pen and paper_** :-) .**
 
 **Estimated need for activity out side classroom:** N/A
 
