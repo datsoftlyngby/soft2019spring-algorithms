@@ -1,4 +1,4 @@
-# Algorithms & Data Strutures - Spring 2019
+# Algorithms & Data Structures - Spring 2019
 
 ### Course Curriculum & Exam Information
 * General information is availble though the course's [Moodle flow](https://cphbusiness.mrooms.net/course/editsection.php?id=27735&sr=0), and from the links below.
