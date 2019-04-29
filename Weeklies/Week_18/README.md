@@ -19,7 +19,9 @@ NB: Anders Kalhauge will join us for the final few weeks, and will be covering '
 
 ### Classroom Activities 
 
-- Tries and text mining
+- The plan ahead
+- Test Exam hand-back
+- 'Tries' and text mining
 - KD-Trees
 - Final Mandatory Project 5 assignment handed-out. Topic can be chosen between three, which we will defined in Class.
 
