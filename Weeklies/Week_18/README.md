@@ -23,7 +23,7 @@ NB: Anders Kalhauge will join us for the final few weeks, and will be covering '
 - Test Exam hand-back
 - 'Tries' and text mining
 - KD-Trees
-- Final Mandatory Project 5 assignment handed-out. Topic can be chosen between three, which we will defined in Class.
+- Final Mandatory Project 5 assignment handed-out. Topic can be chosen between four, which we will defined in Class.
 
 **Estimated need for activity out side classroom:** 6-7 hours incl. reading.
 
