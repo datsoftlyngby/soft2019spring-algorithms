@@ -19,6 +19,6 @@ N/A
 
 **Lecture Slides:** are available through [the GitHub repository](https://github.com/datsoftlyngby/soft2019spring-algorithms/blob/master/Weeklies/Week_06/Slides/02%20Introduction.pdf), on an incremental basis.
 
-**Code:** available through the ["Booksite"](https://algs4.cs.princeton.edu/home/).
+**Code:** N/A
 
 **Classroom exercises:** N/A
