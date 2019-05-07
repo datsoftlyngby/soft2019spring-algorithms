@@ -1,0 +1,29 @@
+\mode<presentation>
+
+% Requirement
+\RequirePackage{tikz}
+
+% Settings
+\useinnertheme{CPH}
+\useoutertheme{CPH}
+\usecolortheme{CPH}
+
+
+\setbeamertemplate{navigation symbols}{}
+\setbeamertemplate{blocks}[rounded][shadow=true]
+
+\mode<all>
+\defbeamertemplate{itemize item}{image}{\small\includegraphics[height=1.6ex]{bullet}}
+\defbeamertemplate{itemize subitem}{image}{\scriptsize\includegraphics[height=1.6ex]{bullet}}
+\defbeamertemplate{itemize subsubitem}{image}{\tiny\includegraphics[height=1.6ex]{bullet}}
+
+\setbeamertemplate{itemize item}[image]
+\setbeamertemplate{itemize subitem}[image]
+\setbeamertemplate{itemize subsubitem}[image]
+\usefonttheme[onlymath]{serif}
+\usepackage{cph-document}
+\usepackage{cph-listings}
+\usepackage{cph-math}
+% \usepackage[utf8]{inputenc}
+% \usepackage[T1]{fontenc}
+% \input{default}

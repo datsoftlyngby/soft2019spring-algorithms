@@ -1,0 +1,138 @@
+\usepackage[english]{babel}
+\usepackage[T1]{fontenc}        % Support for fonts with ������������������ and other foreign characters.
+\usepackage[utf8]{inputenc}     % Support for UTF-8 encoded input documents
+\usepackage{CJKutf8}
+%\usepackage{fullpage}
+\usepackage{graphicx}           % Support for including graphics as png, gif, and jpeg
+\usepackage{amssymb}            % Support for alterantive symbols
+\usepackage{amsmath}            % Support for mathematical symbols
+\usepackage{stmaryrd}                 % Support for \varodot and other symbols
+\usepackage{hyperref}
+\usepackage{cleveref}                 % For extended reference support
+\usepackage{mathrsfs}
+%\usepackage{bbding}
+\usepackage{listliketab}        % Support for tabulated lists
+%\usepackage{enumitem}           % Support for indented description items and more
+\usepackage{xcolor}              % Support for colored text
+\usepackage{listings}           % Support for code listings
+\usepackage{nameref}            % Enables refernces to names.
+%\usepackage{makeidx}            % For creating indexes
+\usepackage{wasysym}            % For symbols as \smiley
+\usepackage{hyperref}    		% For using URLs
+\usepackage{arydshln}           % dashed lines in tables
+%\usepackage{mdframed}
+%\usepackage{multirow}			% for multirow tables
+\usepackage{tikz}               % For doing vector graphics
+\usetikzlibrary{shapes.multipart}
+\usepackage{textpos}
+\newcommand{\hdline}{\hdashline[1pt/3pt]}
+\newcommand{\st}{\textsuperscript{st} }
+\newcommand{\nd}{\textsuperscript{nd} }
+\newcommand{\rd}{\textsuperscript{rd} }
+\newcommand{\xth}{\textsuperscript{th} }
+\newcommand{\cool}[1]{\textcolor{red!70!black}{\textbf{#1}}}
+\newcommand{\code}[1]{\textcolor{green!50!black}{\texttt{#1}}}
+\newcommand{\shadow}[1]{\textcolor{gray}{#1}}
+\newcommand{\ditem}[2]{\item[#1]\ \\#2}
+
+%\newcommand{\fact}[1]{\begin{center}\begin{Large}#1\end{Large}\end{center}}
+
+\newcommand{\Z}{\mathbb{Z}}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\Q}{\mathbb{Q}}
+\newcommand{\Rel}[3]{#1\,#2\;#3}
+\newcommand{\RRel}[2]{#1\,R\;#2}
+\newcommand{\ncomp}{\npreceq}
+\newcommand{\divides}{\;|\;}
+\newcommand{\where}{\,|\,}
+
+\newcommand{\pSet}[1]{\mathscr{P}(#1)}
+\newcommand{\E}{\exists}
+\newcommand{\A}{\forall}
+
+%\usepackage{color}
+%\usepackage{perpage} %the perpage package
+%\MakePerPage{footnote} %the perpage package command
+\newcounter{exercisecounter}
+\newenvironment{exercise}%
+    {\refstepcounter{exercisecounter}}%
+    {}
+
+\definecolor{lightgray}{rgb}{.9,.9,.9}
+\definecolor{darkgray}{rgb}{.4,.4,.4}
+\definecolor{purple}{rgb}{0.65, 0.12, 0.82}
+\definecolor{cphbg}{rgb}{0.004, 0.082, 0.227}
+\definecolor{cphfg}{rgb}{0.984, 0.688, 0.250}
+
+\lstdefinelanguage{JavaScript}{
+    keywords={typeof, new, true, false, throw, catch, function, return, null, catch, switch, var, if, in, while, do, else, case, break},
+    sensitive=true,
+    comment=[l]{//},
+    morecomment=[s]{/*}{*/},
+    morestring=[b]',
+    morestring=[b]"
+	}
+\lstdefinelanguage{Kotlin}{
+    keywords={val, var, true, false, throw, catch, fun, return, null, catch, while, when, if, else, while, do, else, break, continue, in, sealed, class, data},
+    sensitive=true,
+    comment=[l]{//},
+    morecomment=[s]{/*}{*/},
+    morestring=[b]',
+    morestring=[b]"
+	}
+\lstdefinelanguage{CSharp}{
+    keywords={void, this, super, private, protected, public, new, true, false, throw, catch, finally, return, null, forall, for, var, if, in, while, do, else, case, break, bool, int, long, string, object, real, double, byte, char},
+    sensitive=true,
+    comment=[l]{//},
+    morecomment=[s]{/*}{*/},
+    morestring=[b]"
+  }
+\lstset{
+	language=Java,
+	frame=single,
+	tabsize=2,
+	escapeinside={(*}{*)},
+	basicstyle=\footnotesize\ttfamily,
+    keywordstyle=\bfseries\color{blue},
+    commentstyle=\itshape\color{green!40!black},
+    identifierstyle=\color{black},
+    stringstyle=\color{orange}
+	}
+\lstnewenvironment{kotlin}
+	{\lstset{
+		language=Kotlin,
+		backgroundcolor=\color[RGB]{240,240,255}
+		}}
+	{}
+\lstnewenvironment{java}
+	{\lstset{
+		language=Java,
+		backgroundcolor=\color[RGB]{240,240,255}
+		}}
+	{}
+\lstnewenvironment{sql}
+	{\lstset{
+		language=SQL,
+		backgroundcolor=\color[RGB]{255,240,240}
+		}}
+	{}
+\lstnewenvironment{js}
+	{\lstset{
+		language=JavaScript,
+		backgroundcolor=\color[RGB]{240,255,240}
+		}}
+	{}
+\lstnewenvironment{cs}
+  {\lstset{
+    language=CSharp,
+    backgroundcolor=\color[RGB]{240,255,240}
+    }}
+  {}
+\lstnewenvironment{xml}
+  {\lstset{
+    language=XML,
+    backgroundcolor=\color[RGB]{240,255,240}
+    }}
+  {}
+%\pagestyle{empty}
