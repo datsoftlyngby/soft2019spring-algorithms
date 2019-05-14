@@ -27,8 +27,8 @@ Group Presentations on topics. Chosen by your groups, within the entire syllabus
 
 **Reading:** as needed, in preparation for the oral exam in June.
 
-**Lecture Slides:** N/A
+**Lecture Slides:** You will produce the slides for this day.
 
-**Code:** N/A
+**Code:** You will produce any code needed for this day.
 
-**Classroom exercises:** N/A
+**Classroom exercises:** Group presentations.
