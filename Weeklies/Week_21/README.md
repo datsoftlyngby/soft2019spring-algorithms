@@ -7,28 +7,28 @@ Announcements and general information is available through the [Moodle flow](htt
 -----------------
 
 ### Focus this week
-Group Presentations on topics, chosen within the entire syllabus.
+Group Presentations on topics. Chosen by your groups, within the entire syllabus and the Hand-in assignments.
 
 -----------------
 
 ### Classroom Activities 
 
-- Presentations
+- Presentations (non-prioritized)
    - _'N Squared'_
    - _'Stooge Sort'_
    - _'No Group'_
    - _'Konstanten 1'_
    - _'Big O'_
 
-**Estimated need for activity out side classroom:** 2-4 hours for preparing your presentations. Work together, don't miss out.
+**Estimated need for activity out side classroom:** 2-4 hours for preparing your presentations. Work together, don't miss out. A varying number of hours for oral exam preparation.
 
 -----------------
 ### Resources
 
-**Reading:** as needed.
+**Reading:** as needed, in preparation for the oral exam in June.
 
-**Lecture Slides:** are available through [the GitHub repository](https://github.com/datsoftlyngby/soft2019spring-algorithms/blob/master/Weeklies/Week_06/Slides/02%20Introduction.pdf).
+**Lecture Slides:** N/A
 
-**Code:** as needed. 
+**Code:** N/A
 
 **Classroom exercises:** N/A
