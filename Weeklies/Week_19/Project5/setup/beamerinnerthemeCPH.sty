@@ -1,0 +1,36 @@
+\mode<presentation>
+
+\setbeamertemplate{background}{
+    \begin{tikzpicture}
+        \useasboundingbox (0,0) rectangle(\the\paperwidth,\the\paperheight);
+        \fill[color=cph-dark] (0,8.75) rectangle (\the\paperwidth,\the\paperheight);
+        \node (logo) at (0.875\paperwidth,9.20)
+            {\includegraphics[width=.25\paperwidth]{blue-logo.png}};
+        \fill[color=cph-dark] (0,0) rectangle(\the\paperwidth,0.5);
+    \end{tikzpicture}
+}
+
+% Title page
+\defbeamertemplate*{title page}{CPH}[1][]
+{ 
+    \vskip0.8cm%
+    \begin{beamercolorbox}[center, shadow=true, sep=8pt, rounded=true]{title page header}
+        \usebeamerfont{title}\inserttitle\par
+        \usebeamerfont{subtitle}\insertsubtitle\par
+    \end{beamercolorbox}
+    \vskip0.5cm%
+    \begin{beamercolorbox}[center]{author}
+      \usebeamerfont{author}\insertauthor%
+    \end{beamercolorbox}
+    \begin{center}
+        \includegraphics[width=.6\paperwidth]{logo}
+    \end{center}
+     \vskip0.2cm%
+    \begin{beamercolorbox}[center]{date}
+      \usebeamerfont{author}\insertdate%
+    \end{beamercolorbox}
+  \vfill
+}
+
+\mode<all>
+

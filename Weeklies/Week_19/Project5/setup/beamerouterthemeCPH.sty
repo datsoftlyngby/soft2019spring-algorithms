@@ -1,0 +1,40 @@
+\mode<presentation>
+
+% Frame title
+\defbeamertemplate*{frametitle}{CPH}[1][] {
+    \ifx \framesubtitle \undefined
+        \begin{beamercolorbox}[wd=8cm,left]{frametitle}
+            \usebeamerfont{frametitle}\insertframetitle
+        \end{beamercolorbox}
+    \else
+        \begin{beamercolorbox}[wd=8cm,left]{frametitle}
+            \usebeamerfont{frametitle}\insertframetitle
+        \end{beamercolorbox}
+        \begin{beamercolorbox}[wd=8cm,left]{framesubtitle}
+            \usebeamerfont{framesubtitle}\insertframesubtitle
+        \end{beamercolorbox}
+    \fi
+    }
+
+%Foot line
+\defbeamertemplate*{footline}{CPH} {
+    \begin{beamercolorbox}[center,wd=\paperwidth,ht=3ex,dp=2ex]{footline}
+        \ifnum\thepage>1
+            \begin{columns}[b]
+                \begin{column}{4.5cm}
+                    \usebeamerfont{footline}\inserttitle
+                \end{column}
+                \begin{column}{1cm}
+                    \center{\usebeamerfont{footline}\insertpagenumber}
+                \end{column}
+                \begin{column}{4.5cm}
+                    \begin{flushright}
+                        \usebeamerfont{footline}\insertsection
+                    \end{flushright}
+                \end{column}
+            \end{columns}
+        \fi
+    \end{beamercolorbox}
+    }
+
+\mode<all>

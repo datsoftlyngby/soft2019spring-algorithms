@@ -1,0 +1,121 @@
+\usepackage{listings}
+\usepackage{caption}
+\crefname{lstlisting}{listing}{listings}
+\Crefname{lstlisting}{Listing}{Listings}
+\lstdefinelanguage{Espresso}{
+    keywords={ when, as, is, or, local, pure, class, interface, state,
+    extends, throws, implements, new, true, false, throw, catch, return, null,
+    all, if, for, while, continue, else, break, this, super, consistent },
+    keywords=[2]{String,Integer,Boolean,Real},
+    keywordstyle=\color{blue!80!black},
+    keywordstyle=[2]\color{blue!50!black},
+    sensitive=true, 
+    comment=[l]{//},
+    morecomment=[s]{/*}{*/},
+    stringstyle=\color{purple},     % string literal style
+    tabsize=2,
+    string=[b]",
+    escapeinside={(*}{*)}
+    }
+    
+\lstdefinelanguage{JavaScript}{
+  keywords={typeof, new, true, false, throw, catch, function, return, null, catch, switch, var, if, in, while, do, else, case, break},
+  sensitive=true,
+  comment=[l]{//},
+  morecomment=[s]{/*}{*/},
+  morestring=[b]',
+  morestring=[b]"
+  }
+\lstdefinelanguage{Lisp}{
+  keywords={defun, if},
+  sensitive=true,
+  comment=[l]{//},
+  morecomment=[s]{/*}{*/},
+  morestring=[b]',
+  morestring=[b]"
+  }
+\lstdefinelanguage{CSharp}{
+  % Not complete
+  keywords={is, as, new, true, false, throw, catch, function, return, null, catch, switch, 
+    var, if, in, while, do, else, case, break, string, double, int, decimal, float, long
+    },
+  sensitive=true,
+  comment=[l]{//},
+  morecomment=[s]{/*}{*/},
+  morestring=[b]',
+  morestring=[b]"
+  }
+\lstset{
+  language=Java,
+  frame=single,
+  tabsize=2,
+  escapeinside={(*}{*)},
+  basicstyle=\scriptsize\ttfamily,
+  % basicstyle=\footnotesize\ttfamily,
+  keywordstyle=\bfseries\color{blue},
+  commentstyle=\itshape\color{green!40!black},
+  identifierstyle=\color{black},
+  stringstyle=\color{purple},
+  float=tp,
+  captionpos=bc
+  }
+\lstnewenvironment{java}[2][]
+  {%
+  \def\lstlistingname{Listing (Java)}%
+	\lstset{
+	  label={#2},
+	  caption={#1},
+		language=Java,
+		backgroundcolor=\color[RGB]{240,240,255}
+		}}
+	{}
+\lstnewenvironment{sql}[2][]
+	{%
+  \def\lstlistingname{Listing (SQL)}%
+	\lstset{
+	  label={#2},
+	  caption={#1},
+		language=SQL,
+		backgroundcolor=\color[RGB]{255,240,240}
+		}}
+	{}
+\lstnewenvironment{csharp}[2][]
+	{%
+  \def\lstlistingname{Listing (C\#)}%
+	\lstset{
+	  label={#2},
+	  caption={#1},
+		language=CSharp,
+		backgroundcolor=\color[RGB]{255,240,240}
+		}}
+	{}
+\lstnewenvironment{js}[2][]
+	{%
+  \def\lstlistingname{Listing (JavaScript)}%
+	\lstset{
+	  label={#2},
+	  caption={#1},
+		language=JavaScript,
+		backgroundcolor=\color[RGB]{240,255,240}
+		}}
+	{}
+\lstnewenvironment{espresso}[2][]
+	{%
+  \def\lstlistingname{Listing (Espresso)}%
+	\lstset{
+	  label={#2},
+	  caption={#1},
+		language=Espresso,
+		backgroundcolor=\color[RGB]{240,255,240}
+		}}
+	{}
+\lstnewenvironment{lisp}[2][]
+	{%
+  \def\lstlistingname{Listing (LISP)}%
+	\lstset{
+	  label={#2},
+	  caption={#1},
+		language=Lisp,
+		backgroundcolor=\color[RGB]{255,255,215}
+		}}
+	{}

@@ -1,0 +1,56 @@
+\ProvidesPackage{cph-document}
+
+\usepackage[english]{babel}
+\usepackage[T1]{fontenc}        % Support for fonts with ������������������ and other foreign characters.
+\usepackage[utf8]{inputenc}     % Support for UTF-8 encoded input documents
+\usepackage{CJKutf8}
+%\usepackage{fullpage}
+
+\usepackage{graphicx}           % Support for including graphics as png, gif, and jpeg
+\usepackage{amssymb}            % Support for alterantive symbols
+\usepackage{amsmath}            % Support for mathematical symbols
+\usepackage{stmaryrd}           % Support for \varodot and other symbols
+\usepackage{mathrsfs}           % Ralph Smith's Formal Script Font (math)
+\usepackage{wasysym}            % For symbols as \smiley
+
+\usepackage{xcolor}              % Support for colored text
+\usepackage{listings}           % Support for code listings
+\usepackage{arydshln}           % dashed lines in tables
+\usepackage{tikz}               % For doing vector graphics
+\usetikzlibrary{shapes.multipart}
+\usepackage{textpos}
+
+\usepackage{nameref}            % Enables refernces to names.
+\usepackage{hyperref}           % For using URLs
+\usepackage{cleveref}           % For extended reference support
+
+\usepackage{todonotes}          % To do notes enabled
+\newcommand{\lesstodo}[2][]{\todo[color=green!40,#1]{#2}}
+\newcommand{\moretodo}[2][]{\todo[color=red!40,#1]{#2}}
+\newcommand{\ask}[2][]{\todo[color=blue!40,#1]{#2}}
+
+\newcommand{\hdline}{\hdashline[1pt/3pt]}
+\newcommand{\st}{\textsuperscript{st} }
+\newcommand{\nd}{\textsuperscript{nd} }
+\newcommand{\rd}{\textsuperscript{rd} }
+\newcommand{\xth}{\textsuperscript{th} }
+\newcommand{\cool}[1]{\textcolor{red!70!black}{\textbf{#1}}}
+\newcommand{\code}[1]{\textcolor{green!50!black}{\texttt{#1}}}
+\newcommand{\shadow}[1]{\textcolor{gray}{#1}}
+\newcommand{\ditem}[2]{\item[#1]\ \\#2}
+
+\newcounter{exercisecounter}
+\newenvironment{exercise}%
+    {\refstepcounter{exercisecounter}}%
+    {}
+
+\newcounter{questioncounter}
+\newenvironment{question}%
+    {\refstepcounter{questioncounter}}%
+    {}
+
+\definecolor{lightgray}{rgb}{.9,.9,.9}
+\definecolor{darkgray}{rgb}{.4,.4,.4}
+\definecolor{purple}{rgb}{0.65, 0.12, 0.82}
+\definecolor{cphbg}{rgb}{0.004, 0.082, 0.227}
+\definecolor{cphfg}{rgb}{0.984, 0.688, 0.250}

@@ -7,27 +7,28 @@ Announcements and general information is available through the [Moodle flow](htt
 -----------------
 
 ### Focus this week
-...
+Group Presentations on topics. Chosen by your groups, within the entire syllabus and the Hand-in assignments.
 
 -----------------
 
 ### Classroom Activities 
 
-- Mentimeter [www.menti.com](https://www.menti.com) ...
-- Review of exercises from last week, by peer presentations and discussion.
-- Student Q & A session ...
-- ...
-- ...
+- Presentations (non-prioritized)
+   - _'N Squared'_
+   - _'Stooge Sort'_
+   - _'No Group'_
+   - _'Konstanten 1'_
+   - _'Big O'_
 
-**Estimated need for activity out side classroom:** ...
+**Estimated need for activity out side classroom:** 2-4 hours for preparing your presentations. Work together, don't miss out. A varying number of hours for oral exam preparation.
 
 -----------------
 ### Resources
 
-**Reading:** For this week, read chapter ... of 'Algorithms 4th Edition' (see ["Booksite"](https://algs4.cs.princeton.edu/home/) for abbreviated online version). 
+**Reading:** as needed, in preparation for the oral exam in June.
 
-**Lecture Slides:** are available through [the GitHub repository](https://github.com/datsoftlyngby/soft2019spring-algorithms/blob/master/Weeklies/Week_06/Slides/02%20Introduction.pdf), on an incremental basis.
+**Lecture Slides:** You will produce the slides for this day.
 
-**Code:** you should go through the exercises _**with your group**_, from scratch, although some assistance is available through the ["Booksite"](https://algs4.cs.princeton.edu/home/).
+**Code:** You will produce any code needed for this day.
 
-**Classroom exercises:** TBD (to-be-determined) -- but will be taken in context of the chapter ... of reading material.
+**Classroom exercises:** Group presentations.
